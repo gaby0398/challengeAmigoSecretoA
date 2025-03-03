@@ -26,7 +26,7 @@ Necesitarás tener instalado:
    ```
 2. Abre la carpeta del proyecto en tu editor de código:
    ```bash
-   cd amigo-secreto
+   cd challengeAmigoSecretoA
    ```
 3. Abre el archivo `index.html` en tu navegador.
 
