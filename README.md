@@ -41,10 +41,6 @@ Necesitarás tener instalado:
 
 ---
 
-## 📸 **Demostración**
-![Vista previa del proyecto](assets/demo.png)
-
----
 
 ## 🏗 **Estructura del Proyecto**
 ```
